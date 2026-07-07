@@ -1,0 +1,1 @@
+import{j as s}from"./ui-Bf5JS19o.js";import{h as n}from"./index-BElfTswC.js";function a({className:e,...t}){return s.jsx("div",{className:n("skeleton",e),...t})}function o(){return s.jsxs("div",{className:"card p-5 space-y-3",children:[s.jsx(a,{className:"h-4 w-24"}),s.jsx(a,{className:"h-8 w-32"}),s.jsx(a,{className:"h-3 w-20"})]})}export{o as S,a};
